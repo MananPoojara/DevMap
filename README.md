@@ -16,3 +16,10 @@ Eventbrite API
 - [ ] Create ui for maps with search bar and near me button
 - [ ] make custome popups marks for hackthons and coding sports
 - [ ] learn Eventbrite APi for data scrapping of hackthons
+- [ ] learn esri plugin of leaflet
+
+# Resource
+
+For making map ui good we use leaflet plugins
+
+https://developers.arcgis.com/esri-leaflet/maps/change-the-basemap-style/
