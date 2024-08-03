@@ -12,7 +12,7 @@ Eventbrite API
 
 # TODO
 
-- [ ] learn docs react leaflet
+- [x] learn docs leaflet
 - [ ] Create ui for maps with search bar and near me button
 - [ ] make custome popups marks for hackthons and coding sports
 - [ ] learn Eventbrite APi for data scrapping of hackthons
