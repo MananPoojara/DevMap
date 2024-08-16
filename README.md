@@ -1,18 +1,16 @@
-Api for my google maps for devalopers
+Api for my google maps for developers
 
 # Start with Maps ui
 
-leaflet <- prefer this
-mapbox
-
-#Api for hackthons and tech event data around me
-Eventbrite API
-
-#Aws s3 for storing events images
+- After researching and finding one of the best map ui's like i need something attractive for my maps
+- So now i am going with MapBox Gl for making best of the best
 
 # TODO
 
-- [ ] learn docs react leaflet
-- [ ] Create ui for maps with search bar and near me button
-- [ ] make custome popups marks for hackthons and coding sports
-- [ ] learn Eventbrite APi for data scrapping of hackthons
+- [ ] learn react MapBox gl
+- [ ] make one auth backend with otp service
+- [ ] find some frontend ideas for maps and learn react MapBox gl
+
+# Resource
+
+https://www.youtube.com/watch?v=ZxxZ3kpk5tU
